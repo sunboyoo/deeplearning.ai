@@ -1,0 +1,14 @@
+Loss Function computes the error for a single training example.
+Cost Function is the average of the Loss Functions of the entire training set.
+
+
+Model
+
+Features
+Labels
+Parameters
+Hypothesis
+
+Loss Function
+Cost Function
+Gradients
